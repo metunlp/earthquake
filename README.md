@@ -1,4 +1,4 @@
-# Tweets Under the Rubble: Detection of Messages Calling for Help in Earthquake Disaster
+# Detecting Social Media Messages Calling for Help in Earthquake Disaster
 
 This repository contains our efforts to detect tweets calling for help, specifically after the 2023 Turkiye-Syria Earthquake. 
 
